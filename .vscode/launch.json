@@ -8,7 +8,7 @@
             "type": "java",
             "name": "Test Case 1 Manual",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${file}",
             "args": [
                 "manual",
                 "424-p3-test1.txt"
