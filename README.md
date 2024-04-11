@@ -8,11 +8,11 @@
 
 Use this template for Operating Systems Program 3 in Java.
 
-To help you get started quickly, the starter code file includes code to process the two command-line arguments and begin processing the setup file. You have my permission to use, modify, or delete this code. There are also hints about other steps to complete in the main program.
+To help you get started quickly, the starter code file includes code to process the two command-line arguments and begin processing the setup file. You may use, modify, or delete this code. There are also hints about other steps to complete in the main program.
 
 Setup files for the two provided test cases are included in the repository's top-level directory as `424-p3-test1.txt` and `424-p3-test2.txt`. If you are using GitHub Codespaces or Visual Studio Code, I have included predefined run configurations for these test cases using manual or automatic mode.
 
-GitHub Classroom autograding may be enabled for this program, so I would like you to use the following rules to make it easier to compile and run correctly. This template is set up with these rules in mind.
+Please follow these rules to make it easier to compile and run correctly. This template is set up with these rules in mind.
 
 * **Your main class must be named `Program3`** because GitHub will use the run command `java Program3` to run your code. You can add, rename, modify, or combine other files as needed. 
 * You will need to add other classes to complete the program, but there's more than one way to do this. Create a class structure that works for you. If you want hints, please ask me; I can give you some.
@@ -23,7 +23,7 @@ This template uses the Gradle build system to build and run your Java code. All 
 
 You may use any standard Java class or feature that is supported in Java 17.
 
-If you are encountering problems, please [email me](osterz@uww.edu) with a description of what's happening. I will look at your repository on GitHub to try to help you debug.
+If you encounter problems, please [email me](osterz@uww.edu) with a description of what's happening. I will look at your repository on GitHub to try to help you debug.
 
 ## Advice for Java programmers
 
