@@ -4,7 +4,7 @@
 
 *If you have notes or messages for me, please put them here so I can see them.*
 
-## About this repository and autograding
+## About this repository
 
 Use this template for Operating Systems Program 3 in Java.
 
