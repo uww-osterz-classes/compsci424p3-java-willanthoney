@@ -8,7 +8,7 @@
  * there's more than one way to do this. Create a class structure
  * that works for you. Add any classes, methods, and data structures
  * that you need to solve the problem and display your solution in the
- * correct format.
+ * correct format..
  */
 
 package compsci424.p3;
